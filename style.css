@@ -1,0 +1,13 @@
+.passwdw{
+    display:flex;
+    flex-wrap:wrap;
+    width:200px;
+    background-color: wheat;
+}
+.passwdw input{
+    flex-basis:100%;
+    margin:10px 0;
+}
+progress{
+    flex-basis:100%;
+}
